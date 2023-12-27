@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivam Kumar - MBA Student</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 2em;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Shivam Kumar</h1>
+        <p>MBA Student</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Welcome to my personal webpage! I am a passionate MBA student with a focus on [your area of specialization]. I am enthusiastic about [marketing and finance].</p>
+
+        <h2>Skills</h2>
+        <p>[market]</p>
+
+        <h2>Projects</h2>
+        <p>[3 year experinces in emami as a market representative]</p>
+    </section>
+
+    <footer>
+        <p>Contact me at: sinhashivam53@gmail.com</p>
+    </footer>
+</body>
+
+</html>
